@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>iPhone XR</string>
+		<key>Release Year</key>
+		<integer>2017</integer>
+		<key>Processor</key>
+		<string>A12</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>1792</integer>
+		<key>Resolution Width</key>
+		<integer>828</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 14</string>
+		<key>Release Year</key>
+		<integer>2022</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>2532</integer>
+		<key>Resolution Width</key>
+		<integer>1170</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 14 Pro Max</string>
+		<key>Release Year</key>
+		<integer>2022</integer>
+		<key>Processor</key>
+		<string>A16</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.7</real>
+		<key>Resolution Height</key>
+		<integer>2796</integer>
+		<key>Resolution Width</key>
+		<integer>1290</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 14 Pro</string>
+		<key>Release Year</key>
+		<integer>2022</integer>
+		<key>Processor</key>
+		<string>A16</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.1</real>
+		<key>Resolution Height</key>
+		<integer>2556</integer>
+		<key>Resolution Width</key>
+		<integer>1179</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 13</string>
+		<key>Release Year</key>
+		<integer>2021</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>2532</integer>
+		<key>Resolution Width</key>
+		<integer>1170</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 12</string>
+		<key>Release Year</key>
+		<integer>2020</integer>
+		<key>Processor</key>
+		<string>A14</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>2532</integer>
+		<key>Resolution Width</key>
+		<integer>1170</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 11</string>
+		<key>Release Year</key>
+		<integer>2019</integer>
+		<key>Processor</key>
+		<string>A13</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.1</real>
+		<key>Resolution Height</key>
+		<integer>1792</integer>
+		<key>Resolution Width</key>
+		<integer>828</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 14 Plus</string>
+		<key>Release Year</key>
+		<integer>2022</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.7</real>
+		<key>Resolution Height</key>
+		<integer>2778</integer>
+		<key>Resolution Width</key>
+		<integer>1284</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone SE (3rd generation)</string>
+		<key>Release Year</key>
+		<integer>2022</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 1</string>
+		<key>Release Year</key>
+		<integer>2007</integer>
+		<key>Processor</key>
+		<string>411 ARM11</string>
+		<key>Number of Cameras</key>
+		<integer>1</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>3.5</real>
+		<key>Resolution Height</key>
+		<integer>320</integer>
+		<key>Resolution Width</key>
+		<integer>480</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 3G</string>
+		<key>Release Year</key>
+		<integer>2008</integer>
+		<key>Processor</key>
+		<string>620 ARM11</string>
+		<key>Number of Cameras</key>
+		<integer>1</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>3.5</real>
+		<key>Resolution Height</key>
+		<integer>320</integer>
+		<key>Resolution Width</key>
+		<integer>480</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 3GS</string>
+		<key>Release Year</key>
+		<integer>2009</integer>
+		<key>Processor</key>
+		<string>600 ARM-A8</string>
+		<key>Number of Cameras</key>
+		<integer>1</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>3.5</real>
+		<key>Resolution Height</key>
+		<integer>320</integer>
+		<key>Resolution Width</key>
+		<integer>480</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 4</string>
+		<key>Release Year</key>
+		<integer>2010</integer>
+		<key>Processor</key>
+		<string>A4</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>3.5</real>
+		<key>Resolution Height</key>
+		<integer>960</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 4S</string>
+		<key>Release Year</key>
+		<integer>2011</integer>
+		<key>Processor</key>
+		<string>A5</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>3.5</real>
+		<key>Resolution Height</key>
+		<integer>960</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 5</string>
+		<key>Release Year</key>
+		<integer>2012</integer>
+		<key>Processor</key>
+		<string>A6</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4</real>
+		<key>Resolution Height</key>
+		<integer>1136</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 5c</string>
+		<key>Release Year</key>
+		<integer>2013</integer>
+		<key>Processor</key>
+		<string>A6</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4</real>
+		<key>Resolution Height</key>
+		<integer>1136</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 5s</string>
+		<key>Release Year</key>
+		<integer>2013</integer>
+		<key>Processor</key>
+		<string>A6</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4</real>
+		<key>Resolution Height</key>
+		<integer>1136</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 6</string>
+		<key>Release Year</key>
+		<integer>2014</integer>
+		<key>Processor</key>
+		<string>A8</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 6 Plus</string>
+		<key>Release Year</key>
+		<integer>2014</integer>
+		<key>Processor</key>
+		<string>A8</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>5.5</real>
+		<key>Resolution Height</key>
+		<integer>1920</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 6s</string>
+		<key>Release Year</key>
+		<integer>2015</integer>
+		<key>Processor</key>
+		<string>A9</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 6s Plus</string>
+		<key>Release Year</key>
+		<integer>2015</integer>
+		<key>Processor</key>
+		<string>A9</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>5.5</real>
+		<key>Resolution Height</key>
+		<integer>1920</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone SE (1st Generation)</string>
+		<key>Release Year</key>
+		<integer>2016</integer>
+		<key>Processor</key>
+		<string>A9</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4</real>
+		<key>Resolution Height</key>
+		<integer>1136</integer>
+		<key>Resolution Width</key>
+		<integer>640</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 7</string>
+		<key>Release Year</key>
+		<integer>2016</integer>
+		<key>Processor</key>
+		<string>A10</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 7 Plus</string>
+		<key>Release Year</key>
+		<integer>2016</integer>
+		<key>Processor</key>
+		<string>A10</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>5.5</real>
+		<key>Resolution Height</key>
+		<integer>1920</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 8</string>
+		<key>Release Year</key>
+		<integer>2017</integer>
+		<key>Processor</key>
+		<string>A11</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 8 Plus</string>
+		<key>Release Year</key>
+		<integer>2017</integer>
+		<key>Processor</key>
+		<string>A11</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>5.5</real>
+		<key>Resolution Height</key>
+		<integer>1920</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone X</string>
+		<key>Release Year</key>
+		<integer>2017</integer>
+		<key>Processor</key>
+		<string>A11</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>5.85</real>
+		<key>Resolution Height</key>
+		<integer>2436</integer>
+		<key>Resolution Width</key>
+		<integer>1125</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone XS</string>
+		<key>Release Year</key>
+		<integer>2018</integer>
+		<key>Processor</key>
+		<string>A12</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>5.85</real>
+		<key>Resolution Height</key>
+		<integer>2436</integer>
+		<key>Resolution Width</key>
+		<integer>1125</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone XS Max</string>
+		<key>Release Year</key>
+		<integer>2018</integer>
+		<key>Processor</key>
+		<string>A12</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.46</real>
+		<key>Resolution Height</key>
+		<integer>2688</integer>
+		<key>Resolution Width</key>
+		<integer>1242</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 11 Pro</string>
+		<key>Release Year</key>
+		<integer>2019</integer>
+		<key>Processor</key>
+		<string>A13</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>5.85</real>
+		<key>Resolution Height</key>
+		<integer>2436</integer>
+		<key>Resolution Width</key>
+		<integer>1125</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 11 Pro Max</string>
+		<key>Release Year</key>
+		<integer>2019</integer>
+		<key>Processor</key>
+		<string>A13</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.46</real>
+		<key>Resolution Height</key>
+		<integer>2688</integer>
+		<key>Resolution Width</key>
+		<integer>1242</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone SE (2nd Generation)</string>
+		<key>Release Year</key>
+		<integer>2020</integer>
+		<key>Processor</key>
+		<string>A13</string>
+		<key>Number of Cameras</key>
+		<integer>2</integer>
+		<key>Touch ID</key>
+		<true/>
+		<key>Face ID</key>
+		<false/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>1334</integer>
+		<key>Resolution Width</key>
+		<integer>750</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 12 Mini</string>
+		<key>Release Year</key>
+		<integer>2020</integer>
+		<key>Processor</key>
+		<string>A14</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>4.7</real>
+		<key>Resolution Height</key>
+		<integer>2340</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 12 Pro</string>
+		<key>Release Year</key>
+		<integer>2020</integer>
+		<key>Processor</key>
+		<string>A14</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>2532</integer>
+		<key>Resolution Width</key>
+		<integer>1170</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 12 Pro Max</string>
+		<key>Release Year</key>
+		<integer>2020</integer>
+		<key>Processor</key>
+		<string>A14</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.68</real>
+		<key>Resolution Height</key>
+		<integer>2778</integer>
+		<key>Resolution Width</key>
+		<integer>1284</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 13 Mini</string>
+		<key>Release Year</key>
+		<integer>2021</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>3</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>5.42</real>
+		<key>Resolution Height</key>
+		<integer>2340</integer>
+		<key>Resolution Width</key>
+		<integer>1080</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 13 Pro</string>
+		<key>Release Year</key>
+		<integer>2021</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.06</real>
+		<key>Resolution Height</key>
+		<integer>2532</integer>
+		<key>Resolution Width</key>
+		<integer>1170</integer>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhone 13 Pro Max</string>
+		<key>Release Year</key>
+		<integer>2021</integer>
+		<key>Processor</key>
+		<string>A15</string>
+		<key>Number of Cameras</key>
+		<integer>4</integer>
+		<key>Touch ID</key>
+		<false/>
+		<key>Face ID</key>
+		<true/>
+		<key>Screen Size</key>
+		<real>6.7</real>
+		<key>Resolution Height</key>
+		<integer>2778</integer>
+		<key>Resolution Width</key>
+		<integer>1284</integer>
+	</dict>
+</array>
+</plist>
